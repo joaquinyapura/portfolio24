@@ -5,3 +5,12 @@
 * {
   font-family: "Poppins", sans-serif;
 }
+
+.textos__h1 {
+  font-weight: 600;
+  color: #0088cc;
+}
+
+.textos__h3 {
+  font-size: 2.9rem;
+}
