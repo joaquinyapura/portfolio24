@@ -161,8 +161,13 @@ function App() {
           <img src={avatarsnow} alt="" srcset="" />
         </div>
         <div className="w-1/2 text-right text-white">
-        <h2>Un poco acerca de mi!</h2>
-
+        <h2 className="text-4xl font-bold">Un poco + acerca de mi!</h2>
+        <p>Soy un joven entusiasta de la vida,  mi carrera inició conociendo el Diseño en la Universidad, Luego de terminar la <b>Licenciatura en Diseño Multimedial</b>   pude viajar por el mundo donde descubrír que los deportes de nieve son lo más divertido que me pudo pasar.</p>
+        <br />
+        <p>Luego de ello volví a Argentina a capacitarme mejor en Desarrollo y Diseño, apendiendo de a poco un nuevo mundo lleno de información  </p>
+        <br />
+        <p>Soy una persona que se adapta muy fácil a cualquier ambiente y 
+        a cualquier industria, entonces mi reto ahora es poder avanzar en el sector IT mientras disfruto los hermosos paisajes de Argentina. </p>
         </div>
         </section>
       </div>
